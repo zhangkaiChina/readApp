@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1100385",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "1129603",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "1667274",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}
