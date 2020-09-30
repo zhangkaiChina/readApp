@@ -1,0 +1,35 @@
+.selectBox {
+  padding-bottom: 1rem;
+}
+.selectBox .selectList .titlebox {
+  width: 100%;
+  height: 0.36rem;
+  line-height: 0.36rem;
+  margin: 0;
+  padding-left: 0.3rem;
+  box-sizing: border-box;
+  text-align: left;
+  color: #007aff85;
+}
+.selectBox .selectList .selectBtnBox {
+  padding: 0 0.36rem;
+  display: flex;
+  justify-self: flex-start;
+  flex-wrap: wrap;
+}
+.selectBox .selectList .selectBtnBox .selectBtn {
+  padding: 0.15rem;
+  background-color: #007aff85;
+  color: #eeeeee;
+  margin: 0.05rem;
+  font-size: 0.3rem;
+}
+.description {
+  padding: 0.15rem 0;
+  width: 100%;
+  height: 0.4rem;
+  line-height: 0.4rem;
+  font-size: 0.3rem;
+  text-align: center;
+  color: #007aff85;
+}

@@ -1,0 +1,12 @@
+.headerbox {
+  height: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  line-height: 0.8rem;
+  text-align: center;
+  font-weight: 500;
+  font-size: 0.4rem;
+  color: #ddd;
+  padding: 0.1rem;
+  background-color: #007aff85;
+}

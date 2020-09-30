@@ -1,10 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import { Provider } from 'react-keep-alive';
+
 import App from './App';
 
 ReactDOM.render(
-  <App />,
+  <Provider>
+    <App />
+  </Provider>
+  ,
   document.getElementById('root')
 );
 

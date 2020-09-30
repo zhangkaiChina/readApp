@@ -4,7 +4,7 @@ export class headerbox extends Component {
   render () {
     return (
       <div className="headerbox">
-        henader
+        {this.props.title}
       </div>
     )
   }
